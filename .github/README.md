@@ -16,7 +16,11 @@
 - 🎚 **Volume Mastery:** Adjust To Your Preferred Loudness.
 
 - <p align="center">
-  <a href="https://telegram.me/">
+  <a href="https://telegram.me/InflexSupport">
     <img src="https://img.shields.io/badge/Join-Support%20Group-blue?style=for-the-badge&logo=telegram">
   </a>
-  <a href="https://telegram.me/">
+  <a href="https://telegram.me/TeamInflex">
+    <img src="https://img.shields.io/badge/Join-Update%20Channel-blue?style=for-the-badge&logo=telegram">
+  </a>
+</p>
+
