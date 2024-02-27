@@ -8,4 +8,4 @@
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
 </h3>
 
-<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/Shivasengar12/Nyka"> <img                   
+<p align="center"><a href="https://dashboard.heroku.com/new? https://heroku.com/deploy?     template=https://github.com/Shivasengar12/Nyka"> <img                   
