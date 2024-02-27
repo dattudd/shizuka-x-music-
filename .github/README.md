@@ -14,6 +14,8 @@
 - 🎛 **Customizable Settings:** From Equalizer To Normalization.
 - 📢 **Crystal Clear Audio:** High-Quality Playback.
 - 🎚 **Volume Mastery:** Adjust To Your Preferred Loudness.
+<p align="center">
+<a href="https://t.me/DFSchinna_op"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 chinna%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 
 - <p align="center">
   <a href="https://telegram.me/">
