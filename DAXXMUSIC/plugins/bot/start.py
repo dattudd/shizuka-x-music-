@@ -47,6 +47,7 @@ YUMI_PICS = [
 "https://telegra.ph/file/a486dd59f55514097b76a.jpg",
 "https://telegra.ph/file/a5f21e45aa84191c14c36.jpg",
 "https://telegra.ph/file/997b0fb42265afa8f44f2.jpg",
+
 ]
 
 
