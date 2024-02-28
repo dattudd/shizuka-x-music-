@@ -28,25 +28,25 @@ from strings import get_string
 
 
 YUMI_PICS = [
-"https://telegra.ph/file/dbeeb4434760b877312a8.jpg"
-"https://telegra.ph/file/6232c3a0d747afe93f237.jpg"
-"https://telegra.ph/file/3047175ea9f5ec4d3dfe8.jpg"
-"https://telegra.ph/file/461e6e6871b692f0a775e.jpg"
-"https://telegra.ph/file/ccfedb11fd23ddeaf402f.jpg"
-"https://telegra.ph/file/1d2bcba43109aa1f53137.jpg"
-"https://telegra.ph/file/a278df8f3f820be3e520e.jpg"
-"https://telegra.ph/file/8ea466b8816093dbddc44.jpg"
-"https://telegra.ph/file/7e6d34ff90025f4d15686.jpg"
-"https://telegra.ph/file/ea063d038f4d4828dca04.jpg"
-"https://telegra.ph/file/77d87f5892488484ab5b1.jpg"
-"https://telegra.ph/file/57a2c655b8b2d4398c39d.jpg"
-"https://telegra.ph/file/a860b89751730545c5d54.jpg"
-"https://telegra.ph/file/a9e64023a26e6ab430c3c.jpg"
-"https://telegra.ph/file/666dbcd1994410dc4a096.jpg"
-"https://telegra.ph/file/97016b03b8f5deb545545.jpg"
-"https://telegra.ph/file/a486dd59f55514097b76a.jpg"
-"https://telegra.ph/file/a5f21e45aa84191c14c36.jpg"
-"https://telegra.ph/file/997b0fb42265afa8f44f2.jpg"
+"https://telegra.ph/file/dbeeb4434760b877312a8.jpg",
+"https://telegra.ph/file/6232c3a0d747afe93f237.jpg",
+"https://telegra.ph/file/3047175ea9f5ec4d3dfe8.jpg",
+"https://telegra.ph/file/461e6e6871b692f0a775e.jpg",
+"https://telegra.ph/file/ccfedb11fd23ddeaf402f.jpg",
+"https://telegra.ph/file/1d2bcba43109aa1f53137.jpg",
+"https://telegra.ph/file/a278df8f3f820be3e520e.jpg",
+"https://telegra.ph/file/8ea466b8816093dbddc44.jpg",
+"https://telegra.ph/file/7e6d34ff90025f4d15686.jpg",
+"https://telegra.ph/file/ea063d038f4d4828dca04.jpg",
+"https://telegra.ph/file/77d87f5892488484ab5b1.jpg",
+"https://telegra.ph/file/57a2c655b8b2d4398c39d.jpg",
+"https://telegra.ph/file/a860b89751730545c5d54.jpg",
+"https://telegra.ph/file/a9e64023a26e6ab430c3c.jpg",
+"https://telegra.ph/file/666dbcd1994410dc4a096.jpg",
+"https://telegra.ph/file/97016b03b8f5deb545545.jpg",
+"https://telegra.ph/file/a486dd59f55514097b76a.jpg",
+"https://telegra.ph/file/a5f21e45aa84191c14c36.jpg",
+"https://telegra.ph/file/997b0fb42265afa8f44f2.jpg",
 ]
 
 
