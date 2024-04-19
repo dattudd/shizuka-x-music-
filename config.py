@@ -21,7 +21,7 @@ BOT_NAME = getenv("BOT_NAME", "lilly MUSIC")
 ASSUSERNAME = getenv("ASSUSERNAME", "chiinnoda_assistant")
 EVALOP = list(map(int, getenv("EVALOP", "6886160138").split()))
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://sanasomani786:TJgADfpkI1XVUkKt@cluster0.ruhyad9.mongodb.net/?retryWrites=true&w=majority&appName=AtlasApp")
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://VamsixD:VamsixD@vamsi.x7gyybv.mongodb.net/?retryWrites=true&w=majority")
 
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", "10000"))
 
